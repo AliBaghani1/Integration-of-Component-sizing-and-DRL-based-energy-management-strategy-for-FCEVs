@@ -1,4 +1,4 @@
-# Integration of Component Sizing and DRL-Based Energy Management Strategy for Fuel Cell Hybrid Electric Vehicles (FCHEVs)####
+# Integration of Component Sizing and DRL-Based Energy Management Strategy for Fuel Cell Hybrid Electric Vehicles (FCHEVs)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-ee4c2c.svg)](https://pytorch.org/)
